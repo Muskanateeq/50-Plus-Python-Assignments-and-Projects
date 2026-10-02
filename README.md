@@ -1,4 +1,4 @@
-# 🐍 50+ Python Assignments & Projects
+# 🐍 50+ Python Assignments & Projects!
 
 > A comprehensive collection of **50+ Python assignments, mini applications, and advanced games** designed to master Python from beginner fundamentals to real-world project development.
 
